@@ -110,7 +110,7 @@
     "rollup": "^1.32.1",
     "rollup-plugin-uglify": "^6.0.4",
     "sanctuary": "0.7.x",
-    "sinon": "^7.3.2",
+    "sinon": "^11.1.2",
     "testem": "^2.16.0",
     "xyz": "^3.0.0"
   }
