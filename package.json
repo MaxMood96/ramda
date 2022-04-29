@@ -104,7 +104,7 @@
     "browserify": "https://api.github.com/repos/browserify/browserify/tarball/9ff7c55cc67a7ddbc64f8e7270bcd75fcc72ce2f",
     "cli-table": "0.3.x",
     "cross-env": "^5.2.0",
-    "dox": "latest",
+    "dox": "0.9.1",
     "envvar": "^2.0.0",
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.25.4",
