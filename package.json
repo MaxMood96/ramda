@@ -93,7 +93,7 @@
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-env": "^7.22.6",
     "@babel/register": "^7.4.4",
     "@babel/types": "^7.4.4",
     "@rollup/plugin-babel": "^5.0.4",
